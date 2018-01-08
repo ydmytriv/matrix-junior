@@ -39,3 +39,11 @@ ITSM - Information Technology Service Management - підхід до управ�
 	8. Управління доступністю
 	9. Управління безперервністю
 	10. Управління фінансами
+фреймворки ITSM:
+	- COBIT
+	- Microsoft Operations Framework
+	- Six Sigma
+	- ISO 20000
+	- TOGAF
+	- ITIL
+
