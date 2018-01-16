@@ -1,0 +1,20 @@
+11
+	Networking (osi,tcp/ip, ip,tcp,arp,icmp,ftp,tftp,sftp)
+12
+	Monitoring
+	Logging management
+	WEB/Application servers
+14
+	Virtualization
+15
+	Clouds
+16
+	SCM/VCS
+	Operation System
+17
+	Scripting (powershell, bash)
+	DataBase
+18
+	Configuration Management
+	
+elastic search
