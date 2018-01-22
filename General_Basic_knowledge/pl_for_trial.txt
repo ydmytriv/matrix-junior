@@ -1,13 +1,13 @@
 11
-	Networking (osi,tcp/ip, ip,tcp,arp,icmp,ftp,tftp,sftp)
+	Networking (osi,tcp/ip, ip,tcp,arp,icmp,ftp,tftp,sftp) класи мереж, броадкаст, маски
 12
-	Monitoring
-	Logging management
-	WEB/Application servers
+	Monitoring                       grafana, influxDb, heapster
+	Logging management               elastic search, kafka, zookeeper
+	WEB/Application servers          
 14
-	Virtualization
+	Virtualization (типи)
 15
-	Clouds
+	Clouds (openstack всі компоненти, aws сервіси)     PAAS IAAS SAAS IAAC
 16
 	SCM/VCS
 	Operation System
