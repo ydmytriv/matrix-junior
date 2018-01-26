@@ -1,7 +1,7 @@
 11
-	Networking (osi,tcp/ip, ip,tcp,arp,icmp,ftp,tftp,sftp) класи мереж, броадкаст, маски
+	Networking (osi,tcp/ip, ip,tcp,arp,icmp,ftp,tftp,sftp) класи мереж, броадкаст, маски(порішати задачки), trunk i access порти
 12
-	Monitoring                       grafana, influxDb, heapster
+	Monitoring                       grafana, influxDb, heapster , види моніторинга(4)-активний, пасивний, проактивний, ...)
 	Logging management               elastic search, kafka, zookeeper
 	WEB/Application servers          
 14
