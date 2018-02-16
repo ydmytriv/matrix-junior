@@ -2,6 +2,7 @@
 	SDLC - backlogs
 11
 	Networking (osi,tcp/ip, ip,tcp,arp,icmp,ftp,tftp,sftp) класи мереж, броадкаст, маски(порішати задачки), trunk i access порти
+	TCP, SMTP(IMAP,POP), HTTP
 12
 	Monitoring                       grafana, influxDb, heapster , види моніторинга(4)-активний, пасивний, проактивний, реактивний) snmp-protocol
 	Logging management               elastic search, kafka, zookeeper  
