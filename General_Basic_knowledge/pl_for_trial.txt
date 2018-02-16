@@ -21,3 +21,9 @@
 	Configuration Management
 	
 elastic search
+
+
+for mentorship program
+	ITIL   / ITSM and DevOps  - Read ITIL/ITS fundamentals and best practices  - obtain/cover basic knowledge areas  - What is DevOps?
+	Software   Development Life Cycle  - base terms and approaches   - DevOps in SDLC
+	Software   environments organization -  Base terms, requirements for DEV, QA, STAGE,   PROD, etc. environments
