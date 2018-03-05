@@ -11,3 +11,11 @@ Continuous deployment - CI + CD + автоматичне розгортання 
 
 https://habrahabr.ru/company/piter/blog/343270/
 https://habrahabr.ru/company/dataart/blog/276901/
+
+Jenkins
+	https://www.digitalocean.com/community/tutorials/how-to-set-up-jenkins-for-continuous-development-integration-on-centos-7#step-1-%E2%80%94-installing-jenkins
+	installing-jenkins
+	https://www.ibm.com/developerworks/ru/library/d-continuous-delivery-framework-jenkins/
+	
+	додати slave-linux ноду - встановити на ноді java, створити юзера jenkins (потім вказуєть при конфігурації) Manually trusted key verification strategy
+	деколи треба ставити ntp для синхронізації часу
