@@ -8,3 +8,9 @@ http://library.eltech.ru/files/vkr/2017/magistri/1307/2017%D0%92%D0%9A%D0%A01307
 Zabbix
 https://habrahabr.ru/post/73338/
 https://www.digitalocean.com/community/tutorials/how-to-install-and-configure-zabbix-to-securely-monitor-remote-servers-on-ubuntu-16-04
+	Склад:
+		- сервер моніторингу (отримує, обробляє, аналізує, запускає скрипти оповіщення)
+		- база даних (MySQL, PostgreSQL, SQLite, Oracle)
+		- веб інтерфейс (РНР)
+		- агент - запускається на об"єкті і надає дані серверу (агент не обов"язковий - моніторинг можна проводити по SNMP, запуском зовнішніх скриптів,
+			запити по ssh, ftp, ping )
