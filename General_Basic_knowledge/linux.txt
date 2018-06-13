@@ -1,0 +1,5 @@
+runlevels
+
+alias
+	vim ~/.bashrc
+	alias aliasname='commands' - дописуємо в кінець файла
