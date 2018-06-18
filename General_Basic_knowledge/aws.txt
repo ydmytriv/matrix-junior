@@ -1,0 +1,10 @@
+ec2 - VMs
+S3 - simple storage
+RDS - бази даних
+ElastiCache - redis  в хмарі
+DynamoDB - nosql
+ELB - load balancer
+Route 53 - dns
+CloudWatch - моніторинг.логінг
+IAM - для надання доступу до своїх ресурсів
+cloudformation - IAAC
