@@ -31,3 +31,5 @@ http
 	
 UDP 
 	без підтвердження отримання (основне використання для broadcast i multicast)
+ICMP (Internet Control Message Protocol)
+	використовується для контролю правильності роботи мрежі (ping, traceroute)
