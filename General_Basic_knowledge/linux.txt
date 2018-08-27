@@ -146,3 +146,5 @@ https://habr.com/post/67283/
 		- PV - physical volumes
 		- VG (Volume Group) - об"єднує PV в групу (один диск)
 		- LV (Logical Volume) - логічні розділи, які робимо на нашому VG
+
+для дебага баша - strace
