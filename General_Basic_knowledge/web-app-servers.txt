@@ -1,5 +1,5 @@
-web-server - основна задача -відображення вмісту сайту (через протокол http) apache
-application-server - основна задача - логіка, взаємодія між коритувачем і контентом tomcat
+	web-server - основна задача -відображення вмісту сайту (через протокол http) apache
+	application-server - основна задача - логіка, взаємодія між коритувачем і контентом tomcat
 
 nginx
 	/usr/share/nginx/html - сайт
